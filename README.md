@@ -1,7 +1,12 @@
-## curso-platzi-react-avanzado ⚛️
+## Curso de React Avanzado en Platzi ⚛️
 
-**¡Sígueme en Youtube para más contenido de React y Javascript!** 👉 https://www.youtube.com/midudev
+Proyecto terminado del curso avanzado sobre React, donde llevamos temas como:
 
-**¡Sígueme en Twitch para streams sobre desarrollo web!** 👉 https://www.twitch.tv/midudev
+- Webpack
+- Babel
+- React JS
+- Uso de Styled Components
+- React Hooks
+- Deploy con now de Vercel
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Clonado de [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
